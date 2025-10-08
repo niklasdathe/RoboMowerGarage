@@ -49,4 +49,6 @@ Then came the fun part: I ordered the extrusions online and sourced a hefty stee
 
 And there it is: the lawn mower garage is back in business, stronger and fancier than ever. Hopefully, Version 3 won’t be needed for a long time—unless, of course, the mower itself demands an upgrade to a *fully automated smart garage with Wi-Fi and app support*.  
 
-But that’s a problem for future me.  
+But that’s a problem for future me.
+
+In the meantime, a tiny robot lawn mower that mows the lawn on the garage roof might be a fun idea..
